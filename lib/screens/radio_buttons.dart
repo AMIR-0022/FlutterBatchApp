@@ -15,9 +15,9 @@ class _RadioButtonState extends State<RadioButton> {
   var titleLIst = ['Tea', 'Coffee'];
   var data = [
     {'title': "Tea", 'subTitle': "SubTitle", 'actions': "ClickMe"},
-    {'title': "Tea", 'subTitle': "SubTitle", 'actions': "ClickMe"},
-    {'title': "Tea", 'subTitle': "SubTitle", 'actions': "ClickMe"},
-    {'title': "Tea", 'subTitle': "SubTitle", 'actions': "ClickMe"},
+    {'title': "Coffee", 'subTitle': "SubTitle", 'actions': "ClickMe"},
+    {'title': "Shake", 'subTitle': "SubTitle", 'actions': "ClickMe"},
+    {'title': "Juice", 'subTitle': "SubTitle", 'actions': "ClickMe"},
   ];
 
   void temp(){
