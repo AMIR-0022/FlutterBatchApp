@@ -1,4 +1,4 @@
-# flutter_batch_app2
+# flutter batch app
 
 A new Flutter project.
 
